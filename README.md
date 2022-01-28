@@ -1,6 +1,6 @@
  👋 <b> Hi, I’m Kartikeya </b>
 - 👀 I’m working as a Flutter Developer for Snappymob, Malaysia. 
-- 🌱 I'm currently employeed at @snappymob : MyAstro - a Malaysian satellite television and IPTV provider (Android/iOS application)
+- 🌱 At @snappymob my current project is MyAstro - a Malaysian satellite television and IPTV provider (Android/iOS application)
 - 💞️ I combine my love for design with my obsession for cleaner code using SOLID Principles and Software Architectural Patterns.
 - ⚡ Fun fact: I am professional ballet dancer.
 - :desktop_computer: I’m currently learning React
