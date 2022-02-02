@@ -3,7 +3,7 @@
 - 🌱 At @snappymob my current project is MyAstro - a Malaysian satellite television and IPTV provider (Android/iOS application)
 - 💞️ I combine my love for design with my obsession for cleaner code using SOLID Principles and Software Architectural Patterns.
 - ⚡ Fun fact: I am professional ballet dancer.
-- :desktop_computer: I’m currently learning React
+- :desktop_computer: I’m currently learning React, Swift
 - 📫 kartikeya.badekar@gmail.com or kartikeya.199231@gmail.com
 
 <!---
