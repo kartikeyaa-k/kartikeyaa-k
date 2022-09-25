@@ -1,5 +1,5 @@
  👋 <b> Hi, I’m Kartikeya </b>
-- 👀 I’m working as a Senior Flutter Developer for Snappymob, Malaysia. I am a Full stack developer with 7 years of commercial experience. 
+- 👀 I’m working as a Senior Flutter Developer for Snappymob, Malaysia. I am a Full stack developer with 10 years of commercial experience. 
 - 🌱 At @snappymob my current project is MyAstro - a Malaysian satellite television and IPTV provider (Android/iOS application)
 - 💞️ I combine my love for design with my obsession for cleaner code using SOLID Principles and Software Architectural Patterns.
 - ⚡ Fun fact: I am professional ballet dancer.
