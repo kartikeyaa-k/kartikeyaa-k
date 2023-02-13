@@ -2,7 +2,7 @@
 - 👀 Senior Flutter Developer 
 - 🌱 Worked on #11 ranked application on App store using Flutter.
 - 🌱 Technical head for a startup (Flutter + dot Net)
-- 💞️ I combine my love for design with my obsession for cleaner code using SOLID Principles.
+- 💞️ I combine my love for design with my obsession for cleaner & efficient code.
 - ⚡ Fun fact: I am professional ballet dancer.
 
 - 📫 kartikeya.badekar@gmail.com or kartikeya.199231@gmail.com
