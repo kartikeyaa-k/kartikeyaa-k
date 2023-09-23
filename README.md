@@ -1,8 +1,7 @@
  👋 <b> Hi, I’m Kartikeya </b>
 - 👀 Flutter Engineer 
-- 🌱 Technical head for a startup (Flutter + dot Net)
 - 💞️ I combine my love for design with my obsession for cleaner & efficient code.
-- ⚡ Fun fact: I am a professionally trained ballet dancer.
+- 🐒 Fun fact: I am a professionally trained ballet dancer.
 
 - 📫 kartikeya.badekar@gmail.com or kartikeya.199231@gmail.com
 
