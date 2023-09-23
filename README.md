@@ -1,6 +1,5 @@
  👋 <b> Hi, I’m Kartikeya </b>
-- 👀 Senior Flutter Developer 
-- 🌱 Worked on #11 ranked application on App store using Flutter.
+- 👀 Flutter Engineer 
 - 🌱 Technical head for a startup (Flutter + dot Net)
 - 💞️ I combine my love for design with my obsession for cleaner & efficient code.
 - ⚡ Fun fact: I am a professionally trained ballet dancer.
