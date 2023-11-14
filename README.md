@@ -1,5 +1,5 @@
  👋 <b> Hi, I’m Kartikeya </b>
-- 👀 Flutter Engineer 
+- 👀 Lead Mobile Engineer 
 - 💞️ I combine my love for design with my obsession for cleaner & efficient code.
 - 🐒 Fun fact: I am a professionally trained ballet dancer.
 
