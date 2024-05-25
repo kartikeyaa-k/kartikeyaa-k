@@ -1,4 +1,4 @@
- 👋 <b> Hi, I’m Kartikeya </b>
+ 👋 <b> Hi, I’m Santosh aka Kartikeya </b>
 - 👀 Lead Mobile Engineer 
 - 💞️ I combine my love for design with my obsession for cleaner & efficient code.
 - 🐒 Fun fact: I am a professionally trained ballet dancer.
