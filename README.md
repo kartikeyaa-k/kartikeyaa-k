@@ -1,6 +1,5 @@
  👋 <b> Hi, I’m Santosh [ Kartikeya ]</b>
-- 👀 Lead Engineer 
-- 💞️ I combine my love for design with my obsession for cleaner & efficient code.
+- 👀 I combine my love for design with my obsession for cleaner & efficient code.
 - 🐒 Fun fact: I am a professionally trained ballet dancer.
 
 - 📫 kartikeya.badekar@gmail.com or kartikeya.199231@gmail.com
